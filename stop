@@ -1,0 +1,76 @@
+[33mcommit 365036d34d8b4314ff63138003ad2eb3b38b2f40[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 733c39d 409a020
+Author: 8Kaiser <juanpkaiser@gmail.com>
+Date:   Tue Sep 3 07:26:18 2024 -0400
+
+    Fix merge conflict
+
+[33mcommit 409a0206aeb973f5739f622250a3e91e386a25ac[m
+Author: 8Kaiser <66090959+8Kaiser@users.noreply.github.com>
+Date:   Tue Sep 3 07:21:25 2024 -0400
+
+    Update hello.html
+
+[33mcommit 733c39d1681259043662f9a22b0737a2de1ded0c[m
+Author: 8Kaiser <juanpkaiser@gmail.com>
+Date:   Tue Sep 3 07:20:47 2024 -0400
+
+    Add exclamation point
+
+[33mcommit 0bc7532feaafceaff14f96a4854ca3c395c38c1d[m
+Author: 8Kaiser <66090959+8Kaiser@users.noreply.github.com>
+Date:   Tue Sep 3 07:19:30 2024 -0400
+
+    Update hello.html
+
+[33mcommit 8f49d8c918650801b17e74b994f9003d0000b73a[m
+Author: 8Kaiser <66090959+8Kaiser@users.noreply.github.com>
+Date:   Mon Sep 2 08:50:42 2024 -0400
+
+    Update hello.html
+
+[33mcommit 6aea26d45ab35b143ff415fba7346df42a4f3283[m
+Author: 8Kaiser <66090959+8Kaiser@users.noreply.github.com>
+Date:   Mon Sep 2 08:46:01 2024 -0400
+
+    Update hello.html
+
+[33mcommit b97c9dd1712207c5981acf31127fdd0385cc06eb[m
+Author: 8Kaiser <66090959+8Kaiser@users.noreply.github.com>
+Date:   Mon Sep 2 08:41:58 2024 -0400
+
+    Update hello.html
+    
+    Style adding
+
+[33mcommit a5b5dad988492ed152d8963e53436faec6e56a85[m
+Author: 8Kaiser <66090959+8Kaiser@users.noreply.github.com>
+Date:   Mon Sep 2 08:05:48 2024 -0400
+
+    Update hello.html second Headung
+    
+    Add second heading
+
+[33mcommit ca410441a863d73d0f5a8a5c5fcb9fbe61f23cf1[m
+Author: 8Kaiser <juanpkaiser@gmail.com>
+Date:   Mon Sep 2 08:01:58 2024 -0400
+
+    Add a heading
+
+[33mcommit 002dc3579fb7c2b0664f4df6abd6ceba6ab2ea07[m
+Author: 8Kaiser <juanpkaiser@gmail.com>
+Date:   Mon Sep 2 07:49:26 2024 -0400
+
+    Se agrega el archivo hello de prueba
+
+[33mcommit 62cf7fc2a2e86e17600a8fe2ad72b228a744d82d[m
+Author: 8Kaiser <juanpkaiser@gmail.com>
+Date:   Mon Sep 2 07:36:20 2024 -0400
+
+    CS50 Web Programming with JavaScript
+
+[33mcommit c55c9722c4fe9481e97383220a1d98ddd497399e[m
+Author: 8Kaiser <juanpkaiser@gmail.com>
+Date:   Mon Sep 2 07:31:41 2024 -0400
+
+    first commit
